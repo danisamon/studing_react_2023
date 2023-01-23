@@ -1,0 +1,1 @@
+Projeto de simulação de negociação de ações de bolda de valores para assimilar conceitos de TypeScript
